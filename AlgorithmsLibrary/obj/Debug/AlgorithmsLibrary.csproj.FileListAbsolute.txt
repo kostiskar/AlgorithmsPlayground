@@ -1,0 +1,6 @@
+C:\Users\deigre\source\repos\Algorithms Implementation\AlgorithmsLibrary\bin\Debug\AlgorithmsLibrary.dll
+C:\Users\deigre\source\repos\Algorithms Implementation\AlgorithmsLibrary\bin\Debug\AlgorithmsLibrary.pdb
+C:\Users\deigre\source\repos\Algorithms Implementation\AlgorithmsLibrary\obj\Debug\AlgorithmsLibrary.csprojAssemblyReference.cache
+C:\Users\deigre\source\repos\Algorithms Implementation\AlgorithmsLibrary\obj\Debug\AlgorithmsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\deigre\source\repos\Algorithms Implementation\AlgorithmsLibrary\obj\Debug\AlgorithmsLibrary.dll
+C:\Users\deigre\source\repos\Algorithms Implementation\AlgorithmsLibrary\obj\Debug\AlgorithmsLibrary.pdb
