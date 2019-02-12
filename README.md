@@ -1,6 +1,6 @@
 # AlgorithmsPlayground
 
-Searching & sorting algorithms implementation on C#
+A C# console application that uses the AlgorithmsLibrary to implement Searching & sorting algorithms
 
 # What I learned
 
